@@ -1,0 +1,14 @@
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/FileFlowBackendApplication.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/controller/AuthController.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/controller/FileController.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/model/FileEntity.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/model/User.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/repository/FileRepository.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/repository/UserRepository.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/security/CustomUserDetailsService.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/security/JwtAuthFilter.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/security/JwtUtil.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/security/SecurityConfig.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/service/AuthService.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/service/FileService.java
+/home/mourad-ouammou/Bureau/FIle-Flow-Project/FileFlow-backend/src/main/java/com/fileflow/service/UserService.java
